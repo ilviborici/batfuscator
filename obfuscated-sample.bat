@@ -1,0 +1,4 @@
+ÿþ&cls
+ÿþ
+@echo off
+start calc.exe
